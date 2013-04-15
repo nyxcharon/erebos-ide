@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ede/!svn/ver/3/src/com/ede/utils
+END
+PropertyTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ede/!svn/ver/3/src/com/ede/utils/PropertyTester.java
+END
+XMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ede/!svn/ver/3/src/com/ede/utils/XMLParser.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ede/!svn/ver/3/src/com/ede/utils/XMLWriter.java
+END
+EImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ede/!svn/ver/1/src/com/ede/utils/EImageLoader.java
+END
+ECompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ede/!svn/ver/2/src/com/ede/utils/ECompiler.java
+END
+FileTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ede/!svn/ver/1/src/com/ede/utils/FileTreeModel.java
+END
+FileCopier.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ede/!svn/ver/3/src/com/ede/utils/FileCopier.java
+END
+edepropxml.props
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ede/!svn/ver/3/src/com/ede/utils/edepropxml.props
+END

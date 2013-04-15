@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/ede/!svn/ver/1/src/com/ede/ui
+END
+EEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ede/!svn/ver/1/src/com/ede/ui/EEditor.java
+END
+EMusicEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ede/!svn/ver/1/src/com/ede/ui/EMusicEditor.java
+END
+theme.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ede/!svn/ver/1/src/com/ede/ui/theme.dtd
+END
+EOutputWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ede/!svn/ver/1/src/com/ede/ui/EOutputWindow.java
+END
+EMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ede/!svn/ver/1/src/com/ede/ui/EMenuBar.java
+END
+ImageButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ede/!svn/ver/1/src/com/ede/ui/ImageButton.java
+END
+EProjectNav.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ede/!svn/ver/1/src/com/ede/ui/EProjectNav.java
+END
+dark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ede/!svn/ver/1/src/com/ede/ui/dark.xml
+END
+EJarMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ede/!svn/ver/1/src/com/ede/ui/EJarMaker.java
+END
+EInfoBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ede/!svn/ver/1/src/com/ede/ui/EInfoBar.java
+END
+EToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ede/!svn/ver/1/src/com/ede/ui/EToolBar.java
+END
+EFileNav.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ede/!svn/ver/1/src/com/ede/ui/EFileNav.java
+END
+ETileEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ede/!svn/ver/1/src/com/ede/ui/ETileEditor.java
+END
